@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Budget Study Setup & Amazon Finds</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+body { font-family: 'Poppins', sans-serif; margin:0; background:#f5f5f5; }
+.navbar { background:white; padding:15px; position:fixed; width:100%; top:0; box-shadow:0 2px 10px rgba(0,0,0,0.1);}
+.navbar h2 { margin:0; color:#4f46e5;}
+.hero { padding:120px 20px; text-align:center; background:linear-gradient(135deg,#667eea,#764ba2); color:white;}
+.section { padding:60px 20px;}
+.products { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:20px;}
+.card { background:white; padding:20px; border-radius:15px; text-align:center; box-shadow:0 10px 30px rgba(0,0,0,0.1);}
+.card img { width:100%; border-radius:10px;}
+.btn { display:inline-block; margin-top:10px; padding:10px 15px; background:#ff9900; color:white; text-decoration:none; border-radius:8px;}
+</style>
+</head>
+
+<body>
+
+<div class="navbar">
+<h2>📚 StudyBudget</h2>
+</div>
+
+<div class="hero">
+<h1>Budget Study Setup</h1>
+<p>Best Amazon finds for students under budget 🚀</p>
+</div>
+
+<div class="section">
+<h2>Top Products</h2>
+
+<div class="products">
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d">
+<h3>LED Study Lamp</h3>
+<p>Eye protection lamp for long study hours</p>
+<a href="YOUR_LINK" class="btn">Check Price</a>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1587829741301-dc798b83defb">
+<h3>Planner Notebook</h3>
+<p>Organize your daily study schedule</p>
+<a href="YOUR_LINK" class="btn">View on Amazon</a>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1586289119944-0e838eb88e1f">
+<h3>Earbuds</h3>
+<p>Focus better with noise isolation</p>
+<a href="YOUR_LINK" class="btn">Buy Now</a>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1559854391-9e420f2a63e0">
+<h3>Desk Organizer</h3>
+<p>Keep your table clean & productive</p>
+<a href="YOUR_LINK" class="btn">Check Price</a>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8">
+<h3>Laptop Stand</h3>
+<p>Improve posture and comfort</p>
+<a href="YOUR_LINK" class="btn">View Product</a>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1497366216548-37526070297c">
+<h3>Water Bottle</h3>
+<p>Stay hydrated during study</p>
+<a href="YOUR_LINK" class="btn">Buy Now</a>
+</div>
+
+</div>
+</div>
+
+</body>
+</html>
